@@ -1,3 +1,3 @@
 # APLIKACJE-WWW
 136156, 141489
-To ja 
+Typ niepokorny
