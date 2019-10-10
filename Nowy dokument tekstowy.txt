@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 cos tam piopo napisal
+=======
+Internetowy cennik sieci restauracji 
+>>>>>>> ee90394e93543db0c93932ce5bf59020680745b5
