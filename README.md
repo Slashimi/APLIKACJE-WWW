@@ -1,5 +1,4 @@
 # APLIKACJE-WWW
 136156, 141489
-Typ niepokorny
-aaaa
-aajbjkb
+
+![Image description](https://github.com/Slashimi/APLIKACJE-WWW/blob/master/cw3/db_schema.png?raw=true)
